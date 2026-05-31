@@ -31,5 +31,23 @@
 
 ### Integrante: Quintana Llanque Rony
 
+1.- Crear Proyecto
+![1](docsRonyQuintana/primeraevidencia.png)
 
+2.- Limpiar Proyecto
+![2](docsRonyQuintana/SegundaEvidencia.png)
 
+3.- Instalar Tailwind
+![3](docsRonyQuintana/TerceraEvidencia.png)
+
+4.- Configurar Alias
+![4](docsRonyQuintana/cuartaevidencia.png)
+
+5.- Configurar e Instalar Shadcn
+![5](docsRonyQuintana/Quintaevidencia.png)
+
+6.- Instalar y configurar axios
+![6](docsRonyQuintana/SextaEvidencia.png)
+
+7.- Renderizado de información
+![7](docsRonyQuintana/septimaevidencia.png)
