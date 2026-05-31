@@ -26,25 +26,25 @@
 ### Integrante: Olano Paniora Oscar
 
 1.- Crear Proyecto
-![1](docsOscarOlano/crear proyecto-OSCAR.png)
+![alt text](<docsOscarOlano/crear proyecto-OSCAR.png>)
 
 2.- Limpiar Proyecto
-![2](docsOscarOlano/limpiar proyecto-OSCAR.png)
+![alt text](<docsOscarOlano/limpiar proyecto-OSCAR.png>)
 
 3.- Instalar Tailwind
-![3](docsOscarOlano/instalar tailwind-OSCAR.png)
+![alt text](<docsOscarOlano/instalar tailwind-OSCAR.png>)
 
 4.- Configurar Alias
-![4](docsOscarOlano/configurar alias-OSCAR.png)
+![alt text](<docsOscarOlano/configurar alias-OSCAR.png>)
 
 5.- Configurar e Instalar Shadcn
-![5](docsOscarOlano/configurar e instalar Shadcn-OSCAR.png)
+![alt text](<docsOscarOlano/configurar e instalar Shadcn-OSCAR.png>)
 
 6.- Instalar y configurar axios
-![6](docsOscarOlano/Instalar y configurar axios-OSCAR.png)
+![alt text](<docsOscarOlano/Instalar y configurar axios-OSCAR.png>)
 
 7.- Renderizado de información
-![7](docsOscarOlano/Renderizado e informacion-OSCAR.png)
+![alt text](<docsOscarOlano/Renderizado e informacion-OSCAR.png>)
 
 
 
